@@ -41,3 +41,12 @@ a {
     height: 100px;
     object-fit: cover;
 }
+
+.card-white {
+    background-color: white;
+    padding: 16px 32px 24px 32px;
+    width: 700px;
+    margin: 16px auto;
+    border-radius: 4px;
+    text-align: center;
+}
