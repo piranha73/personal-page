@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Poppins:wght@300;500;700;900&display=swap');
 
+body {
+    background-color: rgb(200, 200, 200);
+}
+
 h1, h2, h3 {
     font-family: 'Poppins', sans-serif;
 }
